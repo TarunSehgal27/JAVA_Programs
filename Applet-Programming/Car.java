@@ -2,8 +2,6 @@ import java.applet.*;
 import java.awt.*;
 import java.lang.*;
 
-/*<applet code="car" height=800 width=700>
-</applet> */
 public class car extends Applet
  { int x; int y; int w;
  void slep()                  //for delay
@@ -55,3 +53,9 @@ else
   }
 }
 }
+/*<html>
+<body>
+<applet code="car" height=800 width=700>
+</applet> 
+</body>
+</html>*/
