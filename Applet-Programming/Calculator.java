@@ -4,7 +4,6 @@ import java.awt.event.*;
 public class Calculator extends Applet implements ActionListener
 {
     TextField inp;
-    //Function to add features to the frame
     public void init()
     {
 	setBackground(Color.white);
